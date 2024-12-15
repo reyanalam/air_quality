@@ -1,5 +1,7 @@
 # Air Quality Categorization
 
+![bandicam2024-12-1522-02-49-142-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/af21d56b-70de-4625-a1b0-be270c6e10fe)
+
 ## Project Overview
 
 The **Air Quality Categorization** project leverages deep learning techniques to classify images of air quality into five distinct categories: **Good**, **Moderate**, **Severe**, **Unhealthy**, and **Very Unhealthy**. The model has been trained on a dataset consisting of 5000 labeled images, each representing different air quality conditions. This classification can aid in understanding and monitoring environmental conditions in real-time.
