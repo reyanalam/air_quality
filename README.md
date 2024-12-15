@@ -23,7 +23,7 @@ These categories correspond to different levels of air pollution and provide ins
 
 ## Dataset
 
-The dataset contains 5000 images, each representing a different air quality condition. The images have been manually labeled into one of the five classes mentioned above. These images are used to train, validate, and test the deep learning model.
+The dataset contains around 10,000 images, each representing a different air quality condition. The images have been manually labeled into one of the five classes mentioned above. These images are used to train, validate, and test the deep learning model.
 
 ## Model Architecture
 
