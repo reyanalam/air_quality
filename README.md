@@ -4,7 +4,8 @@
 
 ## Project Overview
 
-The **Air Quality Categorization** project leverages deep learning techniques to classify images of air quality into five distinct categories: **Good**, **Moderate**, **Severe**, **Unhealthy**, and **Very Unhealthy**. The model has been trained on a dataset consisting of 5000 labeled images, each representing different air quality conditions. This classification can aid in understanding and monitoring environmental conditions in real-time.
+The **AeroVision AI** project leverages deep learning techniques to classify images of air quality into five distinct categories: **Good**, **Moderate**, **Severe**, **Unhealthy**, and **Very Unhealthy**. 
+The model has been trained on a dataset consisting of 5000 labeled images, each representing different air quality conditions. This classification can aid in understanding and monitoring environmental conditions in real-time.
 
 ### Usefulness of the Model:
 This model is useful for real-time air quality monitoring through visual recognition. By categorizing images into different air quality classes, it enables individuals, businesses, and organizations to gain immediate insight into their environment. This can be particularly beneficial in areas where air quality monitoring infrastructure is lacking, or where rapid assessments are necessary. With applications in public health, environmental monitoring, and climate research, this model can help raise awareness and promote actions towards cleaner air.
